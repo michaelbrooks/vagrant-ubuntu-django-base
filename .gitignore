@@ -1,4 +1,6 @@
 *~
 /.vagrant
+*.box
+
 /.idea
 *.iml
