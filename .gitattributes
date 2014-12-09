@@ -1,0 +1,2 @@
+# Make sure all script files use linux-style line endings
+*.sh		eol=lf
