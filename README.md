@@ -18,3 +18,13 @@ or init with this:
 ```bash
 $ vagrant init michaelbrooks/ubuntu-django
 ```
+
+What is included
+----------------
+
+- Ubuntu Precise x64 base machine
+- Git, Emacs, a few other system packages
+- MySQL 5.5
+- Python 2.7 with pip
+- virtualenv and virtualenvwrapper
+- NodeJS v0.10.x from NodeSource
