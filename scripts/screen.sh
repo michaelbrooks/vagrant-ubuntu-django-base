@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing screen..."
+loggy "Installing screen..."
 apt-get install -y screen
 
 cat >> /etc/screenrc << EOF

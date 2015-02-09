@@ -13,6 +13,7 @@
 # Die on errors
 set -e
 
+source /vagrant/scripts/functions.sh
 source /vagrant/scripts/base.sh
 source /vagrant/scripts/screen.sh
 source /vagrant/scripts/python.sh

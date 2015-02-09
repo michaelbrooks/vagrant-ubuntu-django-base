@@ -3,5 +3,5 @@
 # Die on errors
 set -e
 
-echo "Installing Python..."
+loggy "Installing Python..."
 apt-get install -y python python-pip python-dev

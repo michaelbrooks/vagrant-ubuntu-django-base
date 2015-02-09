@@ -4,7 +4,7 @@
 set -e
 
 # Global python packages
-echo "Installing global python packages..."
+loggy "Installing global python packages for virtualenv..."
 pip install virtualenv virtualenvwrapper
 
 
