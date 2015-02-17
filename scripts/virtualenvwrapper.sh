@@ -18,7 +18,6 @@ else
 # Set up virtualenv and virtualenvwrapper
 export VIRTUALENVWRAPPER_PYTHON=\$(command -v python2.7)
 export WORKON_HOME=\$HOME/.virtualenvs
-export PIP_DOWNLOAD_CACHE=\$HOME/.pip_download_cache
 source \$(which virtualenvwrapper_lazy.sh)
 EOF
     echo "virtualenvwrapper installed in $BASHPROFILE"
